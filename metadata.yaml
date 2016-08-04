@@ -1,0 +1,37 @@
+_repo: Diary-of-a-Pilgrimage_2024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: "Diary of a Pilgrimage is a novel by Jerome K. Jerome published in 1891.\
+  \ It tells of a trip undertaken by Jerome and his friend \"B\" to see the Oberammergau\
+  \ Passion Play in Germany.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2024'
+  wikidata: Q16514005
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorists, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Germany -- Description and travel'
+- !lcsh 'Jerome, Jerome K. (Jerome Klapka), 1859-1927 -- Travel -- Europe'
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'British -- Europe -- History -- 19th century'
+- !lcsh 'Oberammergauer Passionsspiel'
+- GITenberg
+title: Diary of a Pilgrimage
+url: http://www.gutenberg.org/ebooks/2024
+wikipedia:
+- https://en.wikipedia.org/wiki/Diary_of_a_Pilgrimage
