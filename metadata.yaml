@@ -1,5 +1,8 @@
 _repo: Diary-of-a-Pilgrimage_2024
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -12,6 +15,8 @@ creator:
 description: "Diary of a Pilgrimage is a novel by Jerome K. Jerome published in 1891.\
   \ It tells of a trip undertaken by Jerome and his friend \"B\" to see the Oberammergau\
   \ Passion Play in Germany.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2024#Diary-of-a-Pilgrimage
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
